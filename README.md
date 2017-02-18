@@ -1,6 +1,6 @@
 # Robo Task runner
 
-Steps to use robo cli for bundling / minification for linux
+Steps to use robo cli for bundling / minification - linux
 
 1) Install **composer** globally
 
