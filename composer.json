@@ -1,0 +1,7 @@
+{
+    "require": {
+        "consolidation/Robo": "~1",
+        "natxet/CssMin": "^3.0",
+        "patchwork/jsqueeze": "^2.0"
+    }
+}
